@@ -1,0 +1,13 @@
+{
+  "name": "@jo-js/core",
+  "version": "1.0.0",
+  "description": "Jo.js confirms that you are in fact, a Jo—",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "preinstall": "node index.js"
+  },
+  "author": "@josiahwiebe",
+  "license": "MIT",
+  "public": true
+}
